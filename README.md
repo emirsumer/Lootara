@@ -96,7 +96,6 @@ A 2D platformer built with **Unity 6**. Run and jump across the level, collect c
 
 ## 🙏 Credits
 
-- The core gameplay was developed together with my instructor. I added the water hazard and the game over screen and continued developing the game on my own.
 - Art, sound effects and music from the Unity Asset Store.
 - Cover art: AI-generated.
 
